@@ -4,7 +4,7 @@
 
 ```markdown  
 # What are we?
-   A bunch of college students trying make some projects for thier resumes ig.
+   Well we are pappadam but deflated
    
 # Team 
    + Rhon S George
