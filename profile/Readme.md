@@ -4,7 +4,7 @@
 
 ```markdown  
 # What are we?
-   Well we are pappadam but deflated
+   Well we are a pappadam but deflated
    
 # Team 
    + Rhon S George
