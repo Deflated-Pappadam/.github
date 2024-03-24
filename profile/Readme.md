@@ -7,8 +7,10 @@
    Well we are a pappadam but deflated
    
 # Team 
-   + Rhon S George
+   
    + Ritin D George
-   + Vinu B Kurup
    + Adithya Krishnan
+   + Rhon S George
+   + Vinu B Kurup
+  
 ```
